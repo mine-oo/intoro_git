@@ -5,3 +5,4 @@ git の練習をしていきます
 git remove
 git status
 2 kkkkkk
+git diff
