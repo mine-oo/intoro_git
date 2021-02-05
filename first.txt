@@ -3,3 +3,5 @@ git の練習をしていきます
 3　gitadd
 4
 git remove
+git status
+2 kkkkkk
